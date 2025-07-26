@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there, I'm Zakaria 👋
 
-<!--
-**Zakaria23213/Zakaria23213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 4th-year SEAS (Data Science and Acturial Science) student at the National Higher School of Mathematics in Algeria.
 
-Here are some ideas to get you started:
+🔍 Currently focused on building real-world data projects, improving my machine learning skills, and preparing for remote and international opportunities in data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I’m interested in:
+- Data Analysis & Visualization
+- Machine Learning & AI
+- Solving real-world problems using Python & statistics
+
+🛠️ Tools & Technologies:
+Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Jupyter Notebooks
+
+📫 Reach me at: karbouazakaria0@gmail.com
